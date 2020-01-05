@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="technic",  # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Divyaansh Dandona",
     author_email="divy96@gmail.com",
     description="A python library for Technical Trading",
@@ -13,6 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/dvd9604/technic.git",
     keywords=["trading", "technical", "analysis"],
+    install_requires=["numpy", "pandas"],
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
