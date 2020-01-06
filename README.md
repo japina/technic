@@ -7,6 +7,10 @@ A trading technical analysis library for python.
 1. pandas
 2. numpy
 
+## Install
+
+`pip install technic`
+
 ## Supported Technical Functions
 
 | Indicator             | Status      |
