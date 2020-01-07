@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="technic",  # Replace with your own username
-    version="0.0.2",
+    version="0.0.3",
     author="Divyaansh Dandona",
     author_email="divy96@gmail.com",
     description="A python library for Technical Trading",
