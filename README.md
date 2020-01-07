@@ -35,7 +35,7 @@ import technic as ta
 
 
 
-csv_file = 'PATH_TO_YOUR OHLCV CSV DATA'
+csv_file = 'PATH_TO_YOUR_OHLCV_CSV_DATA'
 
 # Dataframe containing OHLCV data
 df = pd.read_csv(csv_file)
